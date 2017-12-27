@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "piggybear" => "piggybear_net@163.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/xiaozhuxiong121/PGDatePicker.git", :tag => s.version}
+  s.source       = { :git => "https://github.com/zylcold/PGDatePicker.git", :tag => s.version}
   s.source_files = "PGDatePicker", "PGDatePicker/*.{h,m}"
   s.resource     = 'PGDatePicker/PGDatePicker.bundle'
   s.frameworks   = "UIKit"
